@@ -1,4 +1,4 @@
-#  Identify relevant galaxy properties
+#  Validation
 
 Summary -- First investigations and validation of subgrid models. Build upon work already done both within the
 collaboration and in the community as a whole.
